@@ -22,10 +22,9 @@ echo -e "\e[1;91m  ║ \e[1;92m│ │ ││   \e[1;91m║   \e[1;92m│  │�
 echo -e "\e[1;91m  ║ \e[1;92m│ │ │└──┐\e[1;91m╠═╣ \e[1;92m│  ││   │   │  ││ │ │"
 echo -e "\e[1;91m  ║ \e[1;92m┘ └─┘└──┘\e[1;91m║   \e[1;92m└──┘┴──┘┴──┘└──┘└─┴─┘"
 echo -e "\e[1;91m ═╩═\e[1;92m         \e[1;91m╩"
-echo -e "\e[1;91m CREDIT\e[1;92mTermuxProfessor"
 echo ""
+echo -e "\e[1;91m [+] CREDIT GOES TO: \e[1;92mTermuxProfessor"
 echo -e "\e[1;91m [+] YouTube: \e[1;92mKing Bill Hacker"
-echo -e "\e[1;91m [+] Github: \e[1;92mkingbillhacker"
 echo -e "\e[1;91m [+] Instagram: \e[1;92mkingbillhacker\e[1;97r"
 echo ""
 
